@@ -1,0 +1,29 @@
+# Environment & secrets
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# Model artefacts (6.1GB — too large for GitHub, download link in README)
+ag_models/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Claude Code internal
+.claude/
+memory/
+CLAUDE.md
+
+# Word temp files
+~$*.docx
+
+# Assignment original (graders already have it)
+NVIDIA_Omniverse_AI_Engineering_Assignment.docx
+
+# Internal docs (not for submission)
+rubric_compliance.md
+eda_walkthrough.md
+model_explainability_walkthrough.md
+progress_report.md
