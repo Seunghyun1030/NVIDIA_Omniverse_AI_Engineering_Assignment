@@ -72,7 +72,7 @@ Download and extract it before running predictions:
 
 | File | Size | Link |
 |------|------|------|
-| `ag_models.zip` | ~6.1 GB | **[Google Drive](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)** |
+| `ag_models.zip` | ~6.1 GB | **[Google Drive](https://drive.google.com/file/d/1QSnrynKlKmQre7vrlkc7rkK--x4bzbob/view?usp=sharing)** |
 
 After downloading, extract into the project root so the directory structure is `ag_models/models/...`.
 
